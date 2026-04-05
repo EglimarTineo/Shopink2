@@ -1,0 +1,4 @@
+[submodule "l10n_ve_sumitic"]
+	path = l10n_ve_sumitic
+	url = git@github.com:EglimarTineo/odoo19ve.git
+	branch = main
